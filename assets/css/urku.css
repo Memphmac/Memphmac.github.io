@@ -53,7 +53,7 @@ body {
 }
 
 .rk-header {
-  background-color: gray;
+  background-color: rgb(110, 24, 24);
   position: relative;
   z-index: 5;
 }
